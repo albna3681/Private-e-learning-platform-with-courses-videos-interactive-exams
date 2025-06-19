@@ -1,6 +1,38 @@
 # 🎓 منصة تعليمية متكاملة للمدرسين | Educational Platform
 
 ### 🚀 منصة تعليمية شاملة تجمع بين التعلم والتفاعل والتقييم
+
+## 📹 الصفحة الرئيسية تضمن معلومات عن المدرس والسنوات
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/43225450b36f28d507af5f4d95a424356abfb072/FireShot_Capture_020_Mr_Islam_Masood_eng_islammasood_com.png)
+## 📹 صفحة تسجيل دخول
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/43225450b36f28d507af5f4d95a424356abfb072/FireShot_Capture_017_%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84_eng_islammasood_com.png)
+
+## 📹 صفحة تسجيل حساب جديد
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/43225450b36f28d507af5f4d95a424356abfb072/FireShot_Capture_027_%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D8%AD%D8%B3%D8%A7%D8%A8_%D8%AC%D8%AF%D9%8A%D8%AF_eng_islammasood_com.png)
+## 📹 صفحة لوحة التحكم واظهار الكورسات
+
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/43225450b36f28d507af5f4d95a424356abfb072/FireShot_Capture_021_%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85_mr_islam_masood_eng_islammasood.png)
+## 📹 صفحة محتوى الكورس
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/43225450b36f28d507af5f4d95a424356abfb072/FireShot_Capture_025_%D9%83%D9%88%D8%B1%D8%B3_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9_%D9%85%D8%B9_%D9%85%D8%B3%D8%AA%D8%B1_%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%85%D8%B3%D8%B9%D9%88%D8%AF.png)
+## 📹 صفحة الفيديوهات
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/43225450b36f28d507af5f4d95a424356abfb072/FireShot_Capture_023_%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA_mr_islam_masood_eng_islammasood.png)
+## 📹 يوجد صفحات اخرى مثل صفحة الاشتراك في الكورس او تفعيل الكورس من الكود و صفحات اخرى للتحكم في كل شئ داخل قاعدة البيانات وصفحة الاشعارات
+![صفحة كذ 7](رابط_الصورة_7)
+## 📹 صفحة قائمة الاختبارات
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot_Capture_028_%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_aldhihaexams_com.png)
+
+## 📹 صفحة الاختبار وعرض الاسئلة
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot%20Capture%20031%20-%20%20-%20%5Baldhihaexams.com%5D.png)
+
+## 📹 صفحة اخر سؤال في الاختبار
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot%20Capture%20031%20-%20%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة نتيجة الاختبار 
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot_Capture_033_%D9%86%D8%AA%D8%A7%D8%A6%D8%AC_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_aldhihaexams_com.png)
+
+##📹 صفحة تفسير وشرح تفسير الاسئلة
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot_Capture_034_%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D9%81%D8%B5%D9%8A%D9%84%D9%8A%D8%A9_aldhihaexams_com.png)
+## 📹 احصائيات الموقع
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/43225450b36f28d507af5f4d95a424356abfb072/FireShot_Capture_024_%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8_eng_islammasood_com.png)
  
 ## 🌟 نظرة عامة على المنصة
 
